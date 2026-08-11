@@ -86,8 +86,6 @@ The player controls Milli as she travels through locations represented as vertic
 
 ![Hamiltonian graph completion screen](screenshots/hamiltonian-concept-screen.png)
 
-[Watch the gameplay demonstration](demo/millis-way-demo.mp4)
-
 ## Copyright
 
 This project is registered under copyright registration number **SW-18452/2024**.
