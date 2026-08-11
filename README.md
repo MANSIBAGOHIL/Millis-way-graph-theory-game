@@ -86,14 +86,6 @@ The player controls Milli as she travels through locations represented as vertic
 
 ![Hamiltonian graph completion screen](screenshots/hamiltonian-concept-screen.png)
 
-## Copyright
-
-This project is registered under copyright registration number **SW-18452/2024**.
-
-The supplied project record names Marwadi University, Mansiba Gohil, Nidhi Dhinoja, and Prof. Foram Chandarana in connection with the work. No permission to reproduce, modify, redistribute, or reuse the source code or assets is granted through this showcase repository.
-
-© Rights holders identified in the applicable copyright registration. All rights reserved.
-
 ## Contributors
 
 - Mansiba Gohil
