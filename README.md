@@ -1,4 +1,4 @@
-# Milli's Way - graph theory game
+# Milli's Way - a graph theory game
 
 ### Technology badges
 
