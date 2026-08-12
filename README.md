@@ -68,14 +68,9 @@ The player controls Milli as she travels through locations represented as vertic
 
 ## Possible Improvements
 
-- Add explicit labels showing which game locations represent graph vertices and edges
 - Display the player's completed route as a graph after the game
 - Add multiple graph-theory levels and compare Hamiltonian and non-Hamiltonian routes
 - Add a working quiz section; the supplied code contains an unfinished/commented quiz design
-- Improve menu navigation and input-boundary checks
-- Add automated tests for collision and completion conditions
-- Package the project with Maven or Gradle
-- Add a distributable JAR after verifying that all assets and audio are included
 - Add accessibility options for text size, sound, and keyboard controls
 
 ## Preview
