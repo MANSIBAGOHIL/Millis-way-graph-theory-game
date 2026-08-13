@@ -47,16 +47,16 @@ The player controls Milli as she travels through locations represented as vertic
 
 ## How the Game Was Built
 
-1. We selected the Hamiltonian graph concept as the educational foundation of the game.
-2. We designed a map in which Milli travels through task locations before reaching school.
-3. We created a game panel with a timed update-and-render loop.
-4. We implemented keyboard movement, sprite rendering, and world-to-screen positioning.
-5. We added collision checking for tiles, objects, and NPCs.
-6. We placed keys and other game objects at defined coordinates in the map.
-7. We created dialogue, pause, title, and completion states.
-8. We connected completion of the required tasks to an explanation of the Hamiltonian graph concept.
+1. Selected the Hamiltonian graph concept as the educational foundation of the game.
+2. Designed a map in which Milli travels through task locations before reaching school.
+3. Created a game panel with a timed update-and-render loop.
+4. Implemented keyboard movement, sprite rendering, and world-to-screen positioning.
+5. Added collision checking for tiles, objects, and NPCs.
+6. Placed keys and other game objects at defined coordinates in the map.
+7. Created dialogue, pause, title, and completion states.
+8. Connected completion of the required tasks to an explanation of the Hamiltonian graph concept.
 
-## What We Learned
+## What I Learned
 
 - How graph theory can be presented through interactive gameplay
 - How to organize a Java game into `main`, `entity`, `object`, and `tile` packages
@@ -75,10 +75,14 @@ The player controls Milli as she travels through locations represented as vertic
 
 ## Preview
 
+### Milli's Way title screen
 ![Milli's Way title screen](screenshots/title-screen.png)
+---
 
+### Milli speaking with an NPC
 ![Milli speaking with an NPC](screenshots/npc-dialogue.png)
 
+### Hamiltonian graph completion screen
 ![Hamiltonian graph completion screen](screenshots/hamiltonian-concept-screen.png)
 
 ## Contributors
